@@ -300,7 +300,7 @@ li{
     
 }
 
-.section-title{} .section-subtitle{
+.section-title .section-subtitle{
     margin-bottom: 7px;
     padding-left: 7px;
     font-size: 16px;
